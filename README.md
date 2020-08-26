@@ -9,6 +9,6 @@ A home for the open hardware canvas developed by OHM team, as part of the [Open 
 - Download the image directly: [ohcanvasbeta.jpg](https://github.com/ohwmakers/ohcanvas/blob/master/ohcanvasbeta.jpg)
 
 ## License
-This work is licensed under a Creative Commons Attribution 4.0 International License - You are free to share and adapt it, mentioninng the source: github.com/ohwmakers/ohcanvas
+This work is licensed under a Creative Commons Attribution 4.0 International License - You are free to share and adapt it, mentioning the source: github.com/ohwmakers/ohcanvas
 
 See [LICENSE.md](https://github.com/ohwmakers/ohcanvas/blob/master/LICENSE.md) for further details.
