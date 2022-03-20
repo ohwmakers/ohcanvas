@@ -5,8 +5,12 @@ A home for the open hardware canvas developed by OHM team, as part of the [Open 
 
 ## How to use the canvas?
 
-- Make a copy of [this document](https://docs.google.com/presentation/d/1tSxTR038Rvl_Tl4ORRO2L52LEP0Q-_4kTp234Wtx7Ms/edit?usp=sharing) which already has boxes in place to complete
-- Download the image directly: [ohcanvasbeta.jpg](https://github.com/ohwmakers/ohcanvas/blob/master/ohcanvasbeta.jpg)
+- Make a copy of [this document](https://docs.google.com/presentation/d/1pnltcjQGEwT0ZFkd4wP1m662NNZ47PnMkz9MwxKFLTw/edit?usp=sharing)
+- Download the image directly: [ohcanvas_beta.png](https://github.com/ohwmakers/ohcanvas/blob/master/ohcanvas_beta.png) or [ohcanvas_beta_text.png](https://github.com/ohwmakers/ohcanvas/blob/master/ohcanvas_beta_text.png)
+
+## How can I modify the canvas?
+
+- Download the source files ([ohcanvas_beta.svg](https://github.com/ohwmakers/ohcanvas/blob/master/ohcanvas_beta.svg) and [ohcanvas_beta_text.svg](https://github.com/ohwmakers/ohcanvas/blob/master/ohcanvas_beta_text.svg)) and edit them e.g. with [Inkscape](https://inkscape.org).
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International License - You are free to share and adapt it, mentioning the source: [github.com/ohwmakers/ohcanvas](github.com/ohwmakers/ohcanvas)
