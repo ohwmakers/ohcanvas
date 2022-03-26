@@ -1,4 +1,4 @@
-# Open Hardware Canvas 0.1 (beta)
+# Open Hardware Canvas 0.2 (beta)
 A home for the open hardware canvas developed by OHM team, as part of the [Open Hardware Makers](openhardware.space) mentorship program.
 
 > ⚠️ Important note: This is a beta version that will be replaced soon, check this repository for updates
