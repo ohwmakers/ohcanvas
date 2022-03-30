@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="canvas_beta.svg"
-   inkscape:export-filename="/home/alex/GitHub/ohcanvas/canvas_beta.png"
+   sodipodi:docname="ohcanvas_beta.svg"
+   inkscape:export-filename="/home/alex/GitHub/ohcanvas/ohcanvas_beta.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,12 +26,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.17505908"
-     inkscape:cx="431.28296"
-     inkscape:cy="1310.986"
+     inkscape:zoom="0.49514185"
+     inkscape:cx="491.77826"
+     inkscape:cy="443.30731"
      inkscape:window-width="1920"
      inkscape:window-height="998"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -207,7 +207,7 @@
          y="286.20743"
          id="tspan15285">You are free to share and adapt it, mentioning the source: <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Changa;-inkscape-font-specification:'Changa Bold'"
-   id="tspan104594">github.com/ohmakers/ohcanvas</tspan></tspan></text>
+   id="tspan104594">github.com/ohwmakers/ohcanvas</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:Chan;-inkscape-font-specification:'Chan Medium';fill:#aa7c2c;fill-opacity:1;stroke-width:0.264583"
@@ -328,7 +328,7 @@
          id="tspan134353"
          style="font-size:4.93889px;stroke-width:0.264583"
          x="55.49754"
-         y="30.542881">This is a beta version, check github.com/ohmakers/ohcanvas for updates</tspan></text>
+         y="30.542881">This is a beta version, check github.com/ohwmakers/ohcanvas for updates</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:8.46667px;line-height:1.25;font-family:Chan;-inkscape-font-specification:'Chan Medium';stroke-width:0.264583"
@@ -483,7 +483,7 @@
          id="tspan235369"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Changa;-inkscape-font-specification:'Changa Bold';stroke-width:0.264583"
          x="9.1182919"
-         y="202.69473">Resources Require</tspan></text>
+         y="202.69473">Resources Required</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;stroke-width:0.264583"

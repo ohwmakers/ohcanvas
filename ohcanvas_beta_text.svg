@@ -2,35 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="420mm"
    height="297mm"
    viewBox="0 0 420 297"
    version="1.1"
    id="svg5"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="canvas_beta_text1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="ohcanvas_beta_text.svg"
    inkscape:export-filename="/home/alex/GitHub/ohcanvas/ohcanvas_beta_text.png"
    inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
-  <metadata
-     id="metadata177">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -41,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.46798282"
-     inkscape:cx="403.86098"
-     inkscape:cy="586.56"
+     inkscape:zoom="2.6473106"
+     inkscape:cx="1025.9469"
+     inkscape:cy="1038.7901"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-height="998"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="false" />
@@ -57,13 +42,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#fffffb;fill-opacity:1;stroke:#ffffff;stroke-width:1.32300007;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect984"
-       width="410.24435"
-       height="287.32196"
-       x="4.8778076"
-       y="4.8390198" />
     <rect
        style="fill:#e8ad35;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect197470"
@@ -229,7 +207,7 @@
          y="286.20743"
          id="tspan15285">You are free to share and adapt it, mentioning the source: <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Changa;-inkscape-font-specification:'Changa Bold'"
-   id="tspan104594">github.com/ohmakers/ohcanvas</tspan></tspan></text>
+   id="tspan104594">github.com/ohwmakers/ohcanvas</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:Chan;-inkscape-font-specification:'Chan Medium';fill:#aa7c2c;fill-opacity:1;stroke-width:0.264583"
@@ -350,7 +328,7 @@
          id="tspan134353"
          style="font-size:4.93889px;stroke-width:0.264583"
          x="55.49754"
-         y="30.542881">This is a beta version, check github.com/ohmakers/ohcanvas for updates</tspan></text>
+         y="30.542881">This is a beta version, check github.com/ohwmakers/ohcanvas for updates</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:8.46667px;line-height:1.25;font-family:Chan;-inkscape-font-specification:'Chan Medium';stroke-width:0.264583"
@@ -505,7 +483,7 @@
          id="tspan235369"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Changa;-inkscape-font-specification:'Changa Bold';stroke-width:0.264583"
          x="9.1182919"
-         y="202.69473">Resources Require</tspan></text>
+         y="202.69473">Resources Required</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;stroke-width:0.264583"
@@ -552,14 +530,14 @@
        transform="translate(-2.9824811,-2.6458334)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341175"><tspan
+         id="tspan16300"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341173">Does you project need them? </tspan></tspan><tspan
+           id="tspan16298">Does you project need them? </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341179"><tspan
+         id="tspan16304"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341177">How will you deliver them?</tspan></tspan></text>
+           id="tspan16302">How will you deliver them?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -569,19 +547,19 @@
        transform="translate(78.531696,-2.6458334)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341183"><tspan
+         id="tspan16308"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341181">When possible, list materials that </tspan></tspan><tspan
+           id="tspan16306">When possible, list materials that </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341187"><tspan
+         id="tspan16312"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341185">are easily accessible worldwide. </tspan></tspan><tspan
+           id="tspan16310">are easily accessible worldwide. </tspan></tspan><tspan
          x="12.074942"
          y="70.759398"
-         id="tspan341191"><tspan
+         id="tspan16316"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341189">Add supplierers and costs</tspan></tspan></text>
+           id="tspan16314">Add supplierers and costs</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:70.8926;fill:#333333;fill-opacity:1;stroke-width:0.264583"
@@ -591,14 +569,14 @@
        transform="translate(160.61999,-2.6458334)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341195"><tspan
+         id="tspan16320"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341193">A clear message stating what </tspan></tspan><tspan
+           id="tspan16318">A clear message stating what </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341199"><tspan
+         id="tspan16324"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341197">your project has to offer</tspan></tspan></text>
+           id="tspan16322">your project has to offer</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:70.8926;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -608,9 +586,9 @@
        transform="translate(243.17338,-2.6458334)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341203"><tspan
+         id="tspan16328"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341201">Describe them in a few words</tspan></tspan></text>
+           id="tspan16326">Describe them in a few words</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:70.8926;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -620,9 +598,9 @@
        transform="translate(325.58172,-2.6458334)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341207"><tspan
+         id="tspan16332"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341205">Describe them in a few words</tspan></tspan></text>
+           id="tspan16330">Describe them in a few words</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -632,14 +610,14 @@
        transform="translate(-2.6424505,75.853597)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341211"><tspan
+         id="tspan16336"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341209">Which files will you share in </tspan></tspan><tspan
+           id="tspan16334">Which files will you share in </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341215"><tspan
+         id="tspan16340"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341213">which format?</tspan></tspan></text>
+           id="tspan16338">which format?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -649,19 +627,19 @@
        transform="translate(78.871727,75.853597)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341219"><tspan
+         id="tspan16344"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341217">Which license will you apply to </tspan></tspan><tspan
+           id="tspan16342">Which license will you apply to </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341223"><tspan
+         id="tspan16348"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341221">which components? How will </tspan></tspan><tspan
+           id="tspan16346">which components? How will </tspan></tspan><tspan
          x="12.074942"
          y="70.759398"
-         id="tspan341227"><tspan
+         id="tspan16352"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341225">you make your project findable?</tspan></tspan></text>
+           id="tspan16350">you make your project findable?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -671,14 +649,14 @@
        transform="translate(243.51341,75.853597)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341231"><tspan
+         id="tspan16356"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341229">How are you going to reach your </tspan></tspan><tspan
+           id="tspan16354">How are you going to reach your </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341235"><tspan
+         id="tspan16360"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341233">contributors?</tspan></tspan></text>
+           id="tspan16358">contributors?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -688,14 +666,14 @@
        transform="translate(325.92176,75.853597)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341239"><tspan
+         id="tspan16364"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341237">How are you going to reach your </tspan></tspan><tspan
+           id="tspan16362">How are you going to reach your </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341243"><tspan
+         id="tspan16368"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341241">users?</tspan></tspan></text>
+           id="tspan16366">users?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -705,14 +683,14 @@
        transform="translate(160.96002,93.459617)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341247"><tspan
+         id="tspan16372"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341245">Electronics, Software, Design, </tspan></tspan><tspan
+           id="tspan16370">Electronics, Software, Design, </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341251"><tspan
+         id="tspan16376"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341249">Content, Data?</tspan></tspan></text>
+           id="tspan16374">Content, Data?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:120.973;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -722,14 +700,14 @@
        transform="translate(-2.6424505,153.3915)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341255"><tspan
+         id="tspan16380"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341253">Which resources (skills, infrastructure, materials, </tspan></tspan><tspan
+           id="tspan16378">Which resources (skills, infrastructure, materials, </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341259"><tspan
+         id="tspan16384"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341257">finances, access) do you need to make your idea work?</tspan></tspan></text>
+           id="tspan16382">finances, access) do you need to make your idea work?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:107.224;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -739,14 +717,14 @@
        transform="translate(127.13273,153.3915)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341263"><tspan
+         id="tspan16388"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341261">How do other address a similar problem? Add </tspan></tspan><tspan
+           id="tspan16386">How do other address a similar problem? Add </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341267"><tspan
+         id="tspan16392"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341265">links to similar projects </tspan></tspan></text>
+           id="tspan16390">links to similar projects </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -756,14 +734,14 @@
        transform="translate(243.47723,153.3915)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341271"><tspan
+         id="tspan16396"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341269">Which docs do your contributors </tspan></tspan><tspan
+           id="tspan16394">Which docs do your contributors </tspan></tspan><tspan
          x="12.074942"
          y="63.955225"
-         id="tspan341275"><tspan
+         id="tspan16400"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341273">need?</tspan></tspan></text>
+           id="tspan16398">need?</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:Changa;-inkscape-font-specification:Changa;white-space:pre;inline-size:72.7088;fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -773,9 +751,9 @@
        transform="translate(325.88559,153.3915)"><tspan
          x="12.074942"
          y="57.151054"
-         id="tspan341279"><tspan
+         id="tspan16404"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto"
-           id="tspan341277">Which docs do your users need?</tspan></tspan></text>
+           id="tspan16402">Which docs do your users need?</tspan></tspan></text>
   </g>
   <style
      type="text/css"
